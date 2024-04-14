@@ -3,7 +3,6 @@
 This is a repository where there is a collection of small java projects
 
 1. Servelet
-<br>
 This is a basic servelet architecture where a client and server can communicate with each other
 <br>
 To run this project open 2 different terminals and
